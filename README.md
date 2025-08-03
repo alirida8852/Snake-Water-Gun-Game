@@ -25,6 +25,7 @@ This is a simple command-line game built using Python, where the user plays the 
 
 ## 📈 Future Ideas
 
+
 -Turn it into a web app using Flask
 - Add user login and score history
 - Deploy online
